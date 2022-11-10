@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace 'com.ahmfarisi.kampuskita'
+    namespace 'com.kaa.si5b.kampuskita'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.ahmfarisi.kampuskita"
-        minSdk 22
+        applicationId "com.kaa.si5b.kampuskita"
+        minSdk 21
         targetSdk 32
         versionCode 1
         versionName "1.0"

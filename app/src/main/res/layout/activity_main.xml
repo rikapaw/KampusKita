@@ -17,6 +17,6 @@
         android:id="@+id/fl_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_above="@id/bnv_kampus_kita"/>
+        android:layout_above="@+id/bnv_kampus_kita"/>
 
 </RelativeLayout>
